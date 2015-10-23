@@ -1,2 +1,2 @@
 # weather_app
-Weate
+Weather App for Skillcrush Ruby Challenges
